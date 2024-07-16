@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_camera_id" translatable="false">0</string>
+
+    <!--for menu setting start-->
+    <array name="menu_switch_icon_list">
+        <item>@drawable/ic_vector_switch_to_front</item>
+        <item>@drawable/ic_vector_switch_to_back</item>
+        <item>@drawable/ic_vector_switch_to_back</item>
+        <item>@drawable/ic_vector_switch_to_back</item>
+    </array>
+
+    <string name="camera_id_0" translatable="false">0</string>
+    <string name="camera_id_1" translatable="false">1</string>
+    <string name="camera_id_2" translatable="false">2</string>
+    <string name="camera_id_3" translatable="false">3</string>
+    <array name="menu_camera_id_list">
+        <item>@string/camera_id_0</item>
+        <item>@string/camera_id_1</item>
+        <item>@string/camera_id_2</item>
+        <item>@string/camera_id_3</item>
+    </array>
+
+
+    <array name="menu_flash_icon_list">
+        <item>@drawable/ic_vector_flash_off</item>
+        <item>@drawable/ic_vector_flash_on</item>
+        <item>@drawable/ic_vector_flash_auto</item>
+        <item>@drawable/ic_vector_flash_torch</item>
+    </array>
+
+    <array name="menu_flash_entries">
+        <item>@string/flashlight_off</item>
+        <item>@string/flashlight_on</item>
+        <item>@string/flashlight_auto</item>
+        <item>@string/flashlight_torch</item>
+    </array>
+
+    <array name="menu_flash_entries_value">
+        <item>@string/flash_off</item>
+        <item>@string/flash_on</item>
+        <item>@string/flash_auto</item>
+        <item>@string/flash_torch</item>
+    </array>
+
+    <string name="flash_off" translatable="false">off</string>
+    <string name="flash_on" translatable="false">on</string>
+    <string name="flash_auto" translatable="false">auto</string>
+    <string name="flash_torch" translatable="false">torch</string>
+
+    <!--for menu setting end-->
+</resources>

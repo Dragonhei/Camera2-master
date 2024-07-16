@@ -1,0 +1,70 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--for focus view-->
+    <dimen name="radius_outer">50dp</dimen>
+    <dimen name="radius_inner">30dp</dimen>
+    <dimen name="stroke_width">2dp</dimen>
+    <!--for shutter button-->
+    <dimen name="shutter_outer_radius">3dp</dimen>
+
+    <!--bottom control-->
+    <dimen name="setting_icon_size">45dp</dimen>
+    <dimen name="thumbnail_size">45dp</dimen>
+    <dimen name="shutter_button_size">75dp</dimen>
+    <dimen name="bottom_control_margin">45dp</dimen>
+    <dimen name="thumbnail_border_width">2dp</dimen>
+    <!--bottom control small-->
+    <dimen name="setting_icon_size_small">30dp</dimen>
+    <dimen name="thumbnail_size_small">30dp</dimen>
+    <dimen name="shutter_button_size_small">45dp</dimen>
+    <dimen name="bottom_control_margin_small">10dp</dimen>
+    <dimen name="thumbnail_border_width_small">1dp</dimen>
+    <!--Misc-->
+    <dimen name="seek_bar_height">20dp</dimen>
+    <dimen name="cover_icon_margin">50dp</dimen>
+    <dimen name="default_button_size">38dp</dimen>
+    <dimen name="default_controls_margin">10dp</dimen>
+
+    <!--Setting preference-->
+    <dimen name="setting_title_size">18sp</dimen>
+    <dimen name="setting_bar_height">60dp</dimen>
+    <dimen name="setting_padding">15dp</dimen>
+    <dimen name="setting_catalog_padding">15dp</dimen>
+    <dimen name="setting_pref_title_size">15sp</dimen>
+    <dimen name="setting_catalog_size">14sp</dimen>
+    <dimen name="setting_summary_size">13sp</dimen>
+    <dimen name="setting_elevation">7dp</dimen>
+    <!--Setting preference small -->
+    <dimen name="setting_title_size_small">15sp</dimen>
+    <dimen name="setting_bar_height_small">40dp</dimen>
+    <dimen name="setting_padding_small">5dp</dimen>
+    <dimen name="setting_catalog_padding_small">5dp</dimen>
+    <dimen name="setting_pref_title_size_small">12sp</dimen>
+    <dimen name="setting_catalog_size_small">11sp</dimen>
+    <dimen name="setting_summary_size_small">10sp</dimen>
+    <dimen name="setting_elevation_small">3dp</dimen>
+
+    <!--Camera menu-->
+    <dimen name="menu_item_height">50dp</dimen>
+    <dimen name="menu_img_size">35dp</dimen>
+    <dimen name="menu_text_size">13sp</dimen>
+    <dimen name="menu_text_margin">5dp</dimen>
+    <dimen name="menu_button_text_size">15sp</dimen>
+    <dimen name="menu_layout_margin">3dp</dimen>
+    <dimen name="menu_min_width">80dp</dimen>
+    <!-- Recording timer -->
+    <dimen name="record_timer_padding">10dp</dimen>
+    <dimen name="record_timer_height">30dp</dimen>
+    <dimen name="record_view_height">60dp</dimen>
+    <!--Indicator View-->
+    <dimen name="indicatorTextSize">13sp</dimen>
+    <dimen name="indicatorPaddingHor">13dp</dimen>
+    <dimen name="indicatorPaddingVer">10dp</dimen>
+    <!--Indicator View small-->
+    <dimen name="indicatorTextSizeSmall">10sp</dimen>
+    <dimen name="indicatorPaddingHorSmall">5dp</dimen>
+    <dimen name="indicatorPaddingVerSmall">5dp</dimen>
+
+</resources>
